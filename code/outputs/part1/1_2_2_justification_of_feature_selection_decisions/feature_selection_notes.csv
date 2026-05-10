@@ -1,0 +1,15 @@
+feature,decision,reason
+study_hours,selected,Strongest numerical relationship with exam_score.
+class_attendance,selected,Meaningful positive relationship and strong domain logic.
+sleep_hours,selected,Moderate positive relationship; useful wellbeing indicator.
+study_method,selected,Large target mean differences between categories.
+sleep_quality,selected,Large target mean differences and complements sleep_hours.
+school_evaluation,selected,Clear categorical target gap; may reflect academic context.
+internet_access,candidate,Modest relationship and useful for study resources; has missing values.
+gender,candidate,"Predictive gap exists, but it is sensitive and must be checked for bias."
+degree,candidate,"Small signal, but can capture curriculum differences."
+exam_difficulty,candidate,Weak in EDA but conceptually linked to scores.
+age,candidate,"Weak correlation, retained initially to test whether models use it."
+id,dropped,Identifier only; keeping it risks learning row order or noise.
+student_height,dropped,No educational justification and near-zero relation with the score.
+party_hours,dropped,Near-zero observed relationship; can be re-tested later as sensitivity analysis.

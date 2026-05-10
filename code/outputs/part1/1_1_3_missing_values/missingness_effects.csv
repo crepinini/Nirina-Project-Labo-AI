@@ -1,0 +1,7 @@
+feature,is_missing,count,mean,median
+internet_access,False,567000,63.40458823633157,63.6
+internet_access,True,63000,63.42659714285715,63.7
+study_method,False,585900,63.400342073732716,63.6
+study_method,True,44100,63.49244283446711,63.76
+study_hours,False,611100,63.40958159384716,63.63
+study_hours,True,18900,63.316499365079366,63.34

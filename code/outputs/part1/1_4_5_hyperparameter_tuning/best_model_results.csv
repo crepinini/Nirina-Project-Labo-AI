@@ -1,0 +1,2 @@
+model,train_MAE,valid_MAE,valid_RMSE,valid_R2,risk_precision,risk_recall,risk_F1,overfit_gap_MAE
+Tuned Hist Gradient Boosting,7.166,7.302,9.211,0.762,0.773,0.728,0.75,0.136

@@ -1,0 +1,6 @@
+{
+  "use_balanced_sample": true,
+  "max_examples_per_class": 1600,
+  "batch_size": 128,
+  "use_tf_cache": false
+}

@@ -1,0 +1,14 @@
+feature,importance,type,lowest_group,highest_group
+study_method,11.555,categorical_mean_range,self-study,coaching
+sleep_quality,10.866,categorical_mean_range,poor,good
+school_evaluation,8.703,categorical_mean_range,low,high
+internet_access,3.988,categorical_mean_range,no,yes
+gender,2.808,categorical_mean_range,male,female
+degree,1.511,categorical_mean_range,Computer Science,Business Administration
+study_hours,0.758,numerical_correlation_abs,,
+exam_difficulty,0.449,categorical_mean_range,easy,hard
+class_attendance,0.359,numerical_correlation_abs,,
+sleep_hours,0.166,numerical_correlation_abs,,
+age,0.01,numerical_correlation_abs,,
+party_hours,0.001,numerical_correlation_abs,,
+student_height,0.001,numerical_correlation_abs,,

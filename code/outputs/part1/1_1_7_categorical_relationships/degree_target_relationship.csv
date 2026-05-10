@@ -1,0 +1,8 @@
+degree,count,mean,median,std,failure_rate
+Business Administration,75644,64.216,64.6,19.186,0.244
+Marketing,110932,63.969,63.78,18.425,0.239
+Business Management,88721,63.659,63.94,18.951,0.255
+Law,49924,63.576,63.2,19.075,0.249
+Bachelor of Arts,61989,63.36,63.9,18.783,0.26
+Engineering,131236,62.85,62.755,18.912,0.265
+Computer Science,111554,62.704,63.56,19.341,0.271

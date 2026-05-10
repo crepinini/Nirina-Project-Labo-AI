@@ -1,0 +1,16 @@
+dtype,missing_count,missing_pct,unique_values
+int64,0,0.0,630000
+int64,0,0.0,8
+object,0,0.0,2
+object,0,0.0,7
+float64,18900,3.0,793
+float64,0,0.0,617
+object,63000,10.0,3
+float64,0,0.0,66
+object,0,0.0,3
+object,44100,7.0,6
+object,0,0.0,3
+object,0,0.0,3
+float64,0,0.0,8467
+int64,0,0.0,19
+float64,0,0.0,56

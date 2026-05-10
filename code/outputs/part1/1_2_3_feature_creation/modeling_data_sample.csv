@@ -1,0 +1,6 @@
+study_hours,class_attendance,sleep_hours,study_method,sleep_quality,school_evaluation,internet_access,gender,degree,exam_difficulty,age,study_hours_missing,internet_access_missing,study_method_missing,study_attendance_score,sleep_distance_from_8h,low_study_low_attendance
+7.91,98.8,4.9,online videos,average,low,,male,Computer Science,easy,21,0,1,0,7.81508,3.0999999999999996,0
+4.95,94.8,4.7,self-study,poor,medium,yes,female,Law,moderate,18,0,0,0,4.6926,3.3,0
+4.68,92.6,5.8,coaching,poor,high,,female,Computer Science,moderate,20,0,1,0,4.333679999999999,2.2,0
+2.0,49.5,8.3,group study,average,high,yes,male,Computer Science,moderate,19,0,0,0,0.99,0.3000000000000007,1
+7.65,86.9,9.6,self-study,good,high,yes,female,Business Management,easy,23,0,0,0,6.647850000000001,1.5999999999999996,0

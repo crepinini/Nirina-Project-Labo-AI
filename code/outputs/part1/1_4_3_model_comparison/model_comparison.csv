@@ -1,0 +1,8 @@
+model,train_MAE,valid_MAE,valid_RMSE,valid_R2,risk_precision,risk_recall,risk_F1,overfit_gap_MAE,fit_seconds
+Hist Gradient Boosting,7.169,7.307,9.215,0.762,0.773,0.729,0.75,0.138,4.465
+Linear Regression,7.33,7.331,9.252,0.76,0.783,0.711,0.745,0.001,0.532
+Ridge Regression,7.33,7.331,9.252,0.76,0.782,0.711,0.745,0.001,0.364
+MLP Neural Network,7.333,7.345,9.258,0.76,0.773,0.724,0.748,0.012,20.309
+Random Forest,6.757,7.469,9.423,0.751,0.766,0.719,0.742,0.713,10.591
+Decision Tree,7.6,7.856,9.908,0.725,0.755,0.703,0.728,0.256,1.115
+Dummy mean baseline,15.649,15.547,18.898,-0.0,0.0,0.0,0.0,-0.102,0.361

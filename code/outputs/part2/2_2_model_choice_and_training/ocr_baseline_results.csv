@@ -1,0 +1,2 @@
+model,validation_accuracy,validation_balanced_accuracy,validation_macro_f1
+Linear SGD classifier,0.4545,0.4545,0.4485

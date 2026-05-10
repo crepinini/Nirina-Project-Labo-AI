@@ -1,0 +1,8 @@
+feature,MI_classification
+sleep_quality,0.016
+study_method,0.0123
+school_evaluation,0.0089
+gender,0.0014
+internet_access,0.0011
+degree,0.0003
+exam_difficulty,0.0

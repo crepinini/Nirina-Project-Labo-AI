@@ -1,0 +1,4 @@
+true_group,support,accuracy,mean_confidence
+digit,57918,0.8918,0.8511
+lowercase,27059,0.7925,0.8421
+uppercase,31346,0.7345,0.7585

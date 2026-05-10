@@ -1,0 +1,7 @@
+{
+  "epochs": 20,
+  "checkpoint_path": "outputs\\part2\\2_2_1_cnn_architecture_and_training\\best_ocr_cnn_dropout4000.keras",
+  "training_log_path": "outputs\\part2\\2_2_1_cnn_architecture_and_training\\ocr_training_log_dropout4000.csv",
+  "early_stopping_patience": 5,
+  "reduce_lr_patience": 2
+}

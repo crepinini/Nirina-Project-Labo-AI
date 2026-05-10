@@ -1,0 +1,3 @@
+metric,final_train,final_validation,gap
+accuracy,0.795,0.8163,-0.0213
+loss,0.4575,0.4543,-0.0032

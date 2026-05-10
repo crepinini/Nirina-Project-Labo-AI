@@ -1,0 +1,4 @@
+exam_difficulty,count,mean,median,std,failure_rate
+hard,99478,63.578,63.91,19.18,0.258
+moderate,353982,63.497,63.6,18.99,0.254
+easy,176540,63.129,63.59,18.739,0.258

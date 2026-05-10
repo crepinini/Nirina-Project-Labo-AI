@@ -1,0 +1,4 @@
+sleep_quality,count,mean,median,std,failure_rate
+good,213089,68.773,69.2,18.112,0.163
+average,203236,63.563,63.7,18.635,0.252
+poor,213675,57.907,58.02,18.506,0.351

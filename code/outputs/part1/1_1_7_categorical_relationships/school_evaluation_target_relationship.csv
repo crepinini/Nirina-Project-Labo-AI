@@ -1,0 +1,4 @@
+school_evaluation,count,mean,median,std,failure_rate
+high,203540,67.571,68.27,18.522,0.191
+medium,214082,63.949,64.1,18.668,0.241
+low,212378,58.869,59.19,18.648,0.333

@@ -1,0 +1,15 @@
+feature_group,feature
+strong,study_hours
+strong,class_attendance
+strong,sleep_hours
+strong,study_method
+strong,sleep_quality
+strong,school_evaluation
+candidate,internet_access
+candidate,gender
+candidate,degree
+candidate,exam_difficulty
+candidate,age
+dropped,id
+dropped,student_height
+dropped,party_hours

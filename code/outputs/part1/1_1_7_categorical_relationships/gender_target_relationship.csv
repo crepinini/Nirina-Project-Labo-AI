@@ -1,0 +1,3 @@
+gender,count,mean,median,std,failure_rate
+female,264338,65.037,65.17,18.768,0.228
+male,365662,62.229,62.4,18.995,0.275
